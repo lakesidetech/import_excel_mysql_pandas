@@ -26,6 +26,9 @@
 # Check the presence of your database and table in MySQL Workbench
 ![image](https://user-images.githubusercontent.com/17750481/113440674-899d7380-93f5-11eb-9104-21bfa29fef7d.png)
 # Use sql queries to extract data from your MySQL DB and place in two different data frames and place in 2 separate dataframes
+![image](https://user-images.githubusercontent.com/17750481/113441274-b0a87500-93f6-11eb-81d2-973cf2b4970c.png)
+![image](https://user-images.githubusercontent.com/17750481/113441345-c6b63580-93f6-11eb-9894-00270b5f2195.png)
+
 # Use the function below to transfer data from pandas to 2 separate excel sheet
 ![image](https://user-images.githubusercontent.com/17750481/113441003-252ee400-93f6-11eb-98b4-80f1e83c78f8.png)
 
